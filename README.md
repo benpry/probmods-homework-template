@@ -18,4 +18,4 @@ You can create a new Markdown file for each homework assignment. `template.md` g
 
 ## Building a pdf
 
-You can convert your Markdown file to pdf by running `bash build.sh [FILENAME.md]`. A nicely formatted pdf should then appear in the `output` directory.
+You can convert your Markdown file to pdf by running `bash build.sh [FILENAME]`, where `[FILENAME]` is the name of the .md file you are working in but without the .md on the end. A nicely formatted pdf should then appear in the `output` directory.
