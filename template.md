@@ -1,3 +1,6 @@
+---
+geometry: margin=1in
+---
 # Chapter Title
 Your name
 
